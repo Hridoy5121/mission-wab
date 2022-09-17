@@ -1,0 +1,37 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+#stay-mission{
+    border-left: 5px solid;
+    background-image: linear-gradient(tomato);
+    border-image-slice: 1;
+
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    color: antiquewhite;
+    height: 10px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 12px;
+    background-color: tomato;
+    text-decoration: none;
+}
+.saction-focused{
+    display: flex;
+}
+.stay-focused{
+    width: 50%;
+    padding-left: 8%;
+
+}
+.stay-focused img{
+    width: 70%;
+}
