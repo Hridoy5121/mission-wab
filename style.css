@@ -48,6 +48,11 @@ h2{
 #mission{
     text-align: center;
 }
+#build-coroca{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 .seation-dream{
     display: flex;
 }
@@ -67,4 +72,9 @@ h2{
 }
 .pest-color{
     background: #FFF4D6;
+}
+footer{
+    background-color: rgb(70, 21, 110);
+    text-align: center;
+    color: antiquewhite;
 }
