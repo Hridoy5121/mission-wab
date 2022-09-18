@@ -32,6 +32,10 @@ h2{
 .saction-focused{
     display: flex;
 }
+.devolopment-sation{
+    display: flex;
+    margin-top: 150px;
+}
 .stay-focused{
     width: 50%;
     padding-left: 8%;
