@@ -8,7 +8,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 30px;
+    font-size: 35px;
 }
 #stay-mission{
     border-left: 7px solid;
@@ -35,14 +35,15 @@ h2{
 .devolopment-sation{
     display: flex;
     margin-top: 150px;
+    margin-bottom: 150px;
 }
 .stay-focused{
-    width: 50%;
+    width: 60%;
     padding-left: 8%;
 
 }
 .stay-focused img{
-    width: 70%;
+    width: 50%;
 }
 #mission{
     text-align: center;
